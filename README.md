@@ -1,7 +1,4 @@
 # Chess
 ChessGame using concepts of object-oriented programming in Java
 
-Steps to run the application:
-1- Open the folder "bin", click with the right button of your mouse and open the "Git Bash Here"
-2- Type java application/Program
-3- Enjoy the game!
+Steps to run the application: Open the "Git Bash Here" in the folder "bin", then type "java Application/Program". Enjoy the game!
